@@ -33,11 +33,11 @@ In the EO*GI industry, there are a lot of softwares and resources that are very 
 
 Having that in mind, this project has two main objectives: 
 
-1 - Apply the concepts of OBIA with Python on a 5-band-scene.
+1 - Apply the concepts of OBIA with Python on a 5-band-scene, using R, G, B, and NIR bands in addition to a DSM.
 
 
 
-- Classify high/low vegetation, road and houses based on NDVI and DSM.
+- Classify high/low vegetation, road and houses based on NDVI and height.
 
 - Export classified segments to geojson.
 
